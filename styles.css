@@ -1,9 +1,10 @@
 <style>
 
 body {
-  background-image: url("background.JPG");
-  background-repeat: no-repeat;
-  background-position: center top;
-  background-attachment: fixed;
-  background-size: 1200px 700px;
+		margin: 0;
+		padding: 0;
+		background-color: #FFFFFF;
+		font-family: 'Times New Roman', serif;
 }
+
+
