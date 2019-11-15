@@ -1,5 +1,19 @@
 body, html {
 	height: 100%;
+	font-size: 20px;
+	background-color:#FAE5DE;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 26px;
+}
+
+h5 {
+	font-size: 20px;
 }
 
 .hero-image {
@@ -48,9 +62,9 @@ body, html {
 section.about {
 	float: center;
 	border-bottom: 1px solid #eeeeee;
-	font-size: 17px;
 	width: auto;
 	height: auto;
+	margin:20px;
 }
 
 article {
@@ -71,7 +85,18 @@ figure {
 	margin: 30px;
 }
 
-div.my-research {
-	font-size: 17px;
+section.research {
+	float: center;
+	border-bottom: 1px solid #eeeeee;
+	width: auto;
+	height: auto;
+	margin: 20px;
 }
 
+section.experience {
+	float: center;
+	border-bottom: 1px solid #eeeeee;
+	width: auto;
+	height: auto;
+	margin:20px;
+}
