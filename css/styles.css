@@ -55,20 +55,7 @@ hgroup {
 	margin-top: 40px;
 }
 
-div.my-photo {
-	position:absolute;
-	padding-left: 20em;
-}
-
-div.introduce {
-	padding-right: 10em;
-	padding-left: 55em;
-	font-size: 20px
-}
-
 div.my-research {
-	padding-right:10em;
-	padding-left:10em;
 	font-size: 20px;
 }
 
