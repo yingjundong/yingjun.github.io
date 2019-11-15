@@ -59,11 +59,13 @@ article {
 }
 
 hgroup {
-	float: right;
+	position: absolute;
 	margin: 20px;
 	width: 100%;
 	height: 700px;
 	padding: 5px;
+	left: 50%;
+	right: 20%
 }
 
 figure {
