@@ -45,6 +45,16 @@ body, html {
 	color: white;
 }
 
+article {
+	clear: both;
+	overflow: auto;
+	width: 100%;
+}
+
+hgroup {
+	margin-top: 40px;
+}
+
 div.my-photo {
 	position:absolute;
 	padding-left: 20em;
