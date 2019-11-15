@@ -59,13 +59,9 @@ article {
 }
 
 hgroup {
-	position: absolute;
+	position: relative;
 	margin: 20px;
 	width: auto;
-	height: 700px;
-	padding: 5px;
-	left: 50%;
-	right: 20%
 }
 
 figure {
