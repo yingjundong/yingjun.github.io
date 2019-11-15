@@ -46,7 +46,7 @@ body, html {
 }
 
 section.about {
-	float: left;
+	float: center;
 	width: 940px;
 	border-bottom: 1px solid #eeeeee;
 }
