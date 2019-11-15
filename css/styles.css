@@ -45,6 +45,12 @@ body, html {
 	color: white;
 }
 
+section.courses {
+	float: left;
+	width: 940px;
+	border-right: 1px solid #eeeeee;
+}
+
 article {
 	clear: both;
 	overflow: auto;
@@ -53,6 +59,14 @@ article {
 
 hgroup {
 	margin-top: 40px;
+}
+
+figure {
+	float: left;
+	width: 300px;
+	height: 300px;
+	padding: 5px;
+	margin: 20px;
 }
 
 div.my-research {
