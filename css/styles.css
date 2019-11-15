@@ -76,7 +76,7 @@ article {
 
 hgroup {
 	position: relative;
-	margin: 10px;
+	margin: 20px;
 	width: auto;
 	margin-right: 20px;
 }
@@ -85,7 +85,6 @@ figure {
 	float: left;
 	padding: 5px;
 	margin: 20px;
-	margin-left: 200px;
 }
 
 figcaption {
