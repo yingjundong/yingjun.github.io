@@ -61,7 +61,7 @@ article {
 
 hgroup {
 	position: relative;
-	margin: 20px;
+	margin: 10px;
 	width: auto;
 }
 
@@ -70,7 +70,7 @@ figure {
 	width: 400px;
 	height: 400px;
 	padding: 5px;
-	margin: 20px;
+	margin: 30px;
 }
 
 div.my-research {
