@@ -2,6 +2,7 @@ body, html {
 	height: 100%;
 	font-size: 20px;
 	background-color:#FAE5DE;
+	font-family: 'Crimson Text', serif;
 }
 
 h1 {
@@ -35,7 +36,7 @@ h5 {
 }
 
 .topnav {
-	background-color: #F9F5F4;
+	background-color: #FAE5DE;
 	overflow: hidden;
 	position:relative;
 }
@@ -83,6 +84,10 @@ figure {
 	float: left;
 	padding: 5px;
 	margin: 30px;
+}
+
+figcaption {
+	text-align:left;
 }
 
 section.research {
