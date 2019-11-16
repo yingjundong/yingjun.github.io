@@ -7,14 +7,11 @@
 <link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/styles.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-
 <body>
         <div class="topnav">
 		<a class="active" href="#home">Home</a>
 		<a href="#about">About</a>
+		<a href="#skills">Skills</a>
 		<a href="#research">Research</a>
 		<a href="#experience">Experience</a>
 	</div>
@@ -63,7 +60,31 @@
     </article>
     </section>
     <br/>
-
+	<section id="skills" class="skills">
+		<div id="bars">
+		<script src="skill.js"></script>
+			<div class="bar" data-percent="90">
+				<h3>Python</h3>
+				<canvas class="bar-circle" width="150" height="150"></canvas>
+			</div>
+			<div class="bar" data-percent="90">
+				<h3>LaTeX</h3>
+				<canvas class="bar-circle" width="150" height="150"></canvas>
+			</div>
+			<div class="bar" data-percent="80">
+				<h3>Shell</h3>
+				<canvas class="bar-circle" width="150" height="150"></canvas>
+			</div>
+			<div class="bar" data-percent="80">
+				<h3>Scikit-Learn</h3>
+				<canvas class="bar-circle" width="150" height="150"></canvas>
+			</div>
+			<div class="bar" data-percent="60">
+				<h3>Pytorch</h3>
+				<canvas class="bar-circle" width="150" height="150"></canvas>
+			</div>
+		</div>	
+	</section>
     <section id="research" class="research">
 	<div class="my-research">
 		<h2>Research Interests</h2>
@@ -109,8 +130,6 @@
 				<li><b>Editorial Staff of the Northeast Journal of Complex System (NEJCS)</b</li>
 			</ul></p>
 		</div>
-
 	</section>
-
 </body>
 </html>
