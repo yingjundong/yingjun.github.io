@@ -91,6 +91,37 @@ figcaption {
 	text-align:left;
 }
 
+section.skills {
+	float: center;
+	border-bottom: 1px solid #eeeeee;
+	width: auto;
+	height: auto;
+	margin: 20px;
+	background-color: #F5D7D0;
+}
+
+#bars {
+	margin: 2em auto;
+	max-width: 960px;
+	overflow: hidden;
+}
+
+.bar {
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+.bar h3 {
+	font-size: 24px;
+	font-family: 'Crimson Text', serif;
+}
+
+.bar-circle {
+	display: block;
+	margin: 07em auto;
+}
+
 section.research {
 	float: center;
 	border-bottom: 1px solid #eeeeee;
