@@ -125,22 +125,22 @@ td {
 	color: black;
 }
 
-.python {width:90%; background-color: #4CAF50;}
-.latex {width: 90%; background-color: #2196F3;}
+.python {width:80%; background-color: #4CAF50;}
+.latex {width: 80%; background-color: #2196F3;}
 .ff {width:90%; background-color:#00ffff}
-.pt {width: 80%; background-color:#808080;}
-.sl {width:75%; background-color:#f44336;}
-.html {width:80%; background-color:#ff8000;}
-.tf {width: 70%; background-color:#ff9999;}
-.css {width: 75%; background-color:#0080ff;}
-.keras {width: 65%; background-color:#bf00ff;}
-.fs {width: 90%; background-color:#ffe0b3;}
-.en {width: 90%; background-color:#33d6ff;}
-.dm {width: 85%; background-color:#009933;}
-.stats {width: 85%; background-color:#0088cc;}
+.pt {width: 70%; background-color:#808080;}
+.sl {width:65%; background-color:#f44336;}
+.html {width:70%; background-color:#ff8000;}
+.tf {width: 60%; background-color:#ff9999;}
+.css {width: 65%; background-color:#0080ff;}
+.keras {width: 55%; background-color:#bf00ff;}
+.fs {width: 80%; background-color:#ffe0b3;}
+.en {width: 85%; background-color:#33d6ff;}
+.dm {width: 75%; background-color:#009933;}
+.stats {width: 75%; background-color:#0088cc;}
 .cn {width: 99.9%; background-color:#99cc00;}
-.ml {width: 83%; background-color:#9966ff;}
-.dl {width: 80%; background-color:#ffff99;}
+.ml {width: 73%; background-color:#9966ff;}
+.dl {width: 70%; background-color:#ffff99;}
 
 section.research {
 	float: center;
