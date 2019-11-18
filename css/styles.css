@@ -160,3 +160,10 @@ section.experience {
 	height: auto;
 	margin:20px;
 }
+
+footer {
+	float: center;
+	text-align: center;
+	background-color:#F5EDEB;
+	width: 100%;
+}
