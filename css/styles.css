@@ -1,7 +1,7 @@
 body, html {
 	height: 100%;
 	font-size: 20px;
-	background-color:#FAE5DE;
+	background-color:#fff5e6;
 	font-family: 'Crimson Text', serif;
 }
 
@@ -62,7 +62,7 @@ h5 {
 
 section.about {
 	float: center;
-	border-bottom: 1px solid #eeeeee;
+	border-bottom: 2px inset #ffe0b3;
 	width: auto;
 	height: auto;
 	margin:20px;
@@ -91,40 +91,60 @@ figcaption {
 	text-align:left;
 }
 
-section.skills {
+section.sk {
 	float: center;
-	border-bottom: 1px solid #eeeeee;
+	border-bottom: 2px inset #ffe0b3;
 	width: auto;
 	height: auto;
 	margin: 20px;
-	background-color: #F5D7D0;
 }
 
-#bars {
-	margin: 2em auto;
-	max-width: 960px;
-	overflow: hidden;
+* {box-sizing: border-box }
+
+.contrainer {
+	width: 100%;
 }
 
-.bar {
-	float: left;
-	width: 20%;
+table {
+	width: 100%;
+	padding: 20px;
+}
+
+th {
 	text-align: center;
 }
 
-.bar h3 {
-	font-size: 24px;
-	font-family: 'Crimson Text', serif;
+td {
+	width: 50%;
 }
 
-.bar-circle {
-	display: block;
-	margin: 07em auto;
+.skills {
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: black;
 }
+
+.python {width:90%; background-color: #4CAF50;}
+.latex {width: 90%; background-color: #2196F3;}
+.ff {width:90%; background-color:#00ffff}
+.pt {width: 80%; background-color:#808080;}
+.sl {width:75%; background-color:#f44336;}
+.html {width:80%; background-color:#ff8000;}
+.tf {width: 70%; background-color:#ff9999;}
+.css {width: 75%; background-color:#0080ff;}
+.keras {width: 65%; background-color:#bf00ff;}
+.fs {width: 90%; background-color:#ffe0b3;}
+.en {width: 90%; background-color:#33d6ff;}
+.dm {width: 85%; background-color:#009933;}
+.stats {width: 85%; background-color:#0088cc;}
+.cn {width: 99.9%; background-color:#99cc00;}
+.ml {width: 83%; background-color:#9966ff;}
+.dl {width: 80%; background-color:#ffff99;}
 
 section.research {
 	float: center;
-	border-bottom: 1px solid #eeeeee;
+	border-bottom: 2px inset #ffe0b3;
 	width: auto;
 	height: auto;
 	margin: 20px;
@@ -132,7 +152,7 @@ section.research {
 
 section.experience {
 	float: center;
-	border-bottom: 1px solid #eeeeee;
+	border-bottom: 2px inset #ffe0b3;
 	width: auto;
 	height: auto;
 	margin:20px;
