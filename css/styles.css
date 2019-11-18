@@ -24,6 +24,7 @@ h5 {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position:relative;
+	margin-top: 40px;
 }
 
 .hero-text {
@@ -38,7 +39,9 @@ h5 {
 .topnav {
 	background-color: #FAE5DE;
 	overflow: hidden;
-	position:relative;
+	position: fixed;
+	width: 100%;
+	top: 0;
 }
 
 .topnav a{
