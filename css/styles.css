@@ -130,13 +130,13 @@ td {
 
 .python {width:85%; background-color: #4A87A1;}
 .latex {width: 85%; background-color: #588D6A;}
-.ff {width:90%; background-color:#EDCC86}
 .pt {width: 80%; background-color:#85B892;}
 .sl {width:80%; background-color:#747E49;}
 .html {width:75%; background-color:#DE9078;}
 .tf {width: 75%; background-color:#D1A35F;}
 .css {width: 60%; background-color:#E6C5B4;}
 .keras {width: 75%; background-color:#8F9A60;}
+.ff {width:70%; background-color:#EDCC86}
 .fs {width: 85%; background-color:#C2858A;}
 .en {width: 80%; background-color:#4A87A1;}
 .dm {width: 80%; background-color:#E1B2B1;}
