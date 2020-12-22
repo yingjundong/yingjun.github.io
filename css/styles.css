@@ -1,7 +1,7 @@
 body, html {
 	height: 100%;
 	font-size: 20px;
-	background-color:#fff5e6;
+	background-color:#C1C7CC;
 	font-family: 'Crimson Text', serif;
 }
 
@@ -37,7 +37,7 @@ h5 {
 }
 
 .topnav {
-	background-color: #FAE5DE;
+	background-color: #EDCC86;
 	overflow: hidden;
 	position: fixed;
 	width: 100%;
@@ -59,7 +59,7 @@ h5 {
 }
 
 .topnav a.active {
-	background-color: #BF87F3;
+	background-color: #B5B892;
 	color: white;
 }
 
@@ -128,22 +128,22 @@ td {
 	color: black;
 }
 
-.python {width:55%; background-color: #4CAF50;}
-.latex {width: 55%; background-color: #2196F3;}
-.ff {width:90%; background-color:#00ffff}
-.pt {width: 45%; background-color:#808080;}
-.sl {width:40%; background-color:#f44336;}
-.html {width:45%; background-color:#ff8000;}
-.tf {width: 35%; background-color:#ff9999;}
-.css {width: 40%; background-color:#0080ff;}
-.keras {width: 30%; background-color:#bf00ff;}
-.fs {width: 45%; background-color:#ffe0b3;}
-.en {width: 75%; background-color:#33d6ff;}
-.dm {width: 40%; background-color:#009933;}
-.stats {width: 60%; background-color:#0088cc;}
-.cn {width: 99.9%; background-color:#99cc00;}
-.ml {width: 40%; background-color:#9966ff;}
-.dl {width: 40%; background-color:#ffff99;}
+.python {width:85%; background-color: #4A87A1;}
+.latex {width: 85%; background-color: #588D6A;}
+.ff {width:90%; background-color:#EDCC86}
+.pt {width: 80%; background-color:#85B892;}
+.sl {width:80%; background-color:#747E49;}
+.html {width:75%; background-color:#DE9078;}
+.tf {width: 75%; background-color:#D1A35F;}
+.css {width: 60%; background-color:#E6C5B4;}
+.keras {width: 75%; background-color:#8F9A60;}
+.fs {width: 85%; background-color:#C2858A;}
+.en {width: 80%; background-color:#4A87A1;}
+.dm {width: 80%; background-color:#E1B2B1;}
+.stats {width: 80%; background-color:#A8BCDA;}
+.cn {width: 99.9%; background-color:#93C4D4;}
+.ml {width: 75%; background-color:#7FA362;}
+.dl {width: 75%; background-color:#9AAbC1;}
 
 section.research {
 	float: center;
