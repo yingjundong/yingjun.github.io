@@ -1,7 +1,7 @@
 body, html {
 	height: 100%;
 	font-size: 20px;
-	background-color:#C1C7CC;
+	background-color:#F2F4F4;
 	font-family: 'Crimson Text', serif;
 }
 
@@ -37,7 +37,7 @@ h5 {
 }
 
 .topnav {
-	background-color: #EDCC86;
+	background-color: #DBD9CC;
 	overflow: hidden;
 	position: fixed;
 	width: 100%;
@@ -46,7 +46,7 @@ h5 {
 
 .topnav a{
 	float: left;
-	color: #538EF5;
+	color: #D1A35F;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -54,12 +54,12 @@ h5 {
 }
 
 .topnav a:hover {
-	background-color:#B4C9EE;
+	background-color:#8F9A60;
 	color:darkblue;
 }
 
 .topnav a.active {
-	background-color: #B5B892;
+	background-color: #D1A35F;
 	color: white;
 }
 
