@@ -26,9 +26,9 @@
 		run: function() {
 			var self = this;
 			
-			self.diff = ( ( self.loaded / 100 ) * Math.PI * 2 * 10 ).toFixed( 2 );	
+			self.diff = ( ( self.loaded / 100 ) * Math.PI * 2 * 2.5 ).toFixed( 2 );	
 			self.context.clearRect( 0, 0, self.width, self.height );
-			self.context.lineWidth = 10;
+			self.context.lineWidth = 2.5;
 			self.context.fillStyle = "#000";
 			self.context.strokeStyle = "#F4C25D";
 			self.context.textAlign = "center";
@@ -55,7 +55,7 @@
 	
 	CircularSkillBar.prototype = {
 		init: function() {
-			this.tick = 25;
+			this.tick = 15;
 			this.progress();
 			
 		},
@@ -77,7 +77,7 @@
 						clearInterval( timer );
 				} 
 				
-			}, self.tick * 100);
+			}, self.tick * 2.5);
 				
 		}
 	};

@@ -105,7 +105,7 @@ section.sk {
 * {box-sizing: border-box }
 
 .contrainer {
-	width: 100%;
+	width: 50%;
 }
 
 table {
@@ -123,8 +123,8 @@ td {
 
 .skills {
 	text-align: right;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	color: black;
 }
 
