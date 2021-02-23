@@ -104,8 +104,8 @@ section.sk {
 
 * {box-sizing: border-box }
 
-.contrainer {
-	width: 50%;
+.container {
+	width: 100%;
 }
 
 table {
