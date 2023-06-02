@@ -110,7 +110,7 @@ section.sk {
 
 table {
 	width: 100%;
-	padding: 20px;
+	padding: 10px;
 }
 
 th {
@@ -118,7 +118,7 @@ th {
 }
 
 td {
-	width: 50%;
+	width: 25%;
 }
 
 .skills {
